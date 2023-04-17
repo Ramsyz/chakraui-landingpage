@@ -63,7 +63,7 @@ export default function Navbar() {
 							fontSize={'lg'}
 							fontWeight={500}
 							variant={'link'}
-							href="/signin"
+							href="/"
 						>
 							MyCompany
 						</Button>
